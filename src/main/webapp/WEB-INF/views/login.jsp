@@ -26,7 +26,7 @@
 		<ul class="nav navbar-nav">
 			<li class="active"><a href="#">Home</a></li>
 			<li><a href="/list-todos.do">Todos</a></li>
-			<li><a href="http://www.in28minutes.com">In2800Minutes</a></li>
+			<li><a href="http://www.in28minutes.com">In2800XXXMinutes</a></li>
 		</ul>
 
 		<ul class="nav navbar-nav navbar-right">
